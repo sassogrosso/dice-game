@@ -5,11 +5,11 @@ int main()
     
     srand(time(0));
     std::cout<<std::endl;
-    std::cout<<"                   *****    *   *****   *****   *****        \n";
-    std::cout<<"                   *    *       *       *       *            \n";
-    std::cout<<"                   *    *   *   *****   *       *****        \n";
-    std::cout<<"                   *    *   *   *       *       *            \n";
-    std::cout<<"                   *****    *   *****   *****   *****        \n";
+    std::cout<<"                   *****    *     *****   *****        \n";
+    std::cout<<"                   *    *         *       *            \n";
+    std::cout<<"                   *    *   *     *       *****        \n";
+    std::cout<<"                   *    *   *     *       *            \n";
+    std::cout<<"                   *****    *     *****   *****        \n";
     std::cout<<"rules of the game:\n";
     std::cout<<"for start the game press the key 's'(s for start) of the keyboard \n";
     do{
