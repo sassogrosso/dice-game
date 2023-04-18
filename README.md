@@ -1,4 +1,3 @@
 # dice-game
 
-dice is a game where two plaer play with dice and the higher number win.
-is a working in progress,there could be some error in the code
+dice is a game where two player play with two dices and win the player with the higher number.
